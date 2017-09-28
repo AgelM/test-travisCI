@@ -21,5 +21,3 @@ matrix:
     os: osx
   - rvm: jruby
     os: osx
-build: 
-  ruby hello.rb
